@@ -5,6 +5,6 @@
 function hello() { console.log("hello wold"); }
 hello();
 
-/*¼ýÍ·º¯Êý*/
+/*ç®­å¤´å‡½æ•°*/
 var fn=()=>{console.log("aa")};
 fn();
