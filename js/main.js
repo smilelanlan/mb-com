@@ -8,3 +8,4 @@ hello();
 /*箭头函数*/
 var fn=()=>{console.log("aa")};
 fn();
+
